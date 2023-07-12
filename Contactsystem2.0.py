@@ -37,6 +37,9 @@ def delcontact(name):
  print("User is deleted")
  mydb.commit()
 
+#Set the theme for the window
+sg.theme('LightYellow')
+
 #The UI layout that user will see
 layout = [
     [sg.Text("Name:"), sg.Input(key="-NAME-")],
