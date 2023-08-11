@@ -55,6 +55,3 @@ The contact table has the following columns:
 - SEX - Gender of the contact (text, required)  
 - PHONENUMBER - Phone number of the contact (integer, required)
   
-## License
-
-[MIT](LICENSE)
