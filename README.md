@@ -37,7 +37,8 @@ git clone <repo URL>
 Install requirements:
 
 ```
-pip install -r requirements.txt
+pip install psycop2
+pip install pysimpleGUI
 ```
 
 Run the application: 
